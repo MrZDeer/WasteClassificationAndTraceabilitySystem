@@ -1,0 +1,6 @@
+<!--pages/laugh/laugh.wxml-->
+<view class="main">
+   <view class="ma" wx:for='{{laugh}}' wx:key='laugh'>
+    <text class="tex">{{item.node}}</text>
+   </view>
+</view>

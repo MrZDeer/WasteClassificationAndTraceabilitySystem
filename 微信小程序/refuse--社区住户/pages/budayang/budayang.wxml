@@ -1,0 +1,14 @@
+<!--pages/budayang/budayang.wxml-->
+<view class="main">
+  <view class="information" wx:for="{{information}}" wx:key="infor">
+    <view class="imagess">
+      <image class="imgs" src="{{item.imgs}}"></image>
+    </view>
+    <view class="tex">
+    <p class="tet">{{item.node}}</p>
+    </view>
+    </view>
+</view>
+ <view class="sunlouliu">
+       <text class="s">疫情期间，垃圾分类无比重要！</text>
+    </view>

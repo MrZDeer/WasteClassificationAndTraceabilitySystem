@@ -1,0 +1,47 @@
+/* pages/budayang/budayang.wxss */
+.information{
+  width: 100%;
+  text-align: left;
+}
+.imagess{
+  margin: 0px;
+  padding: 0px;
+}
+.imgs{
+  width: 100%;
+  height: 70px;
+}
+.tex{
+  margin:1px 10px;
+  line-height: 15px;
+}
+.tet{
+  font-size: 11px;
+  color: rgba(61, 61, 58, 0.973);
+  margin-left: 20px;
+
+}
+.sunlouliu{
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+  border-top: 1px solid rgba(43, 40, 40, 0.562);
+}
+.s{
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  color: rgb(119, 119, 201);
+  text-align: center;
+  margin-top:10px;
+  }
+.im{
+   width: 20px;
+   height: 20px;
+}
+.sun{
+  display: block;
+  font-size: 14px;
+  margin:0 10px;
+
+}

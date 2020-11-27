@@ -1,0 +1,24 @@
+<view class="a1">
+<image src="../../images/kehui.jpg"></image>
+</view>
+<view class="a1">
+
+<view class="a11">可回收垃圾具体分类:</view>
+<view class="a12" wx:for="{{fenlei}}" wx:key="{{f}}">
+  <text class="little">{{item.little}}</text>
+  <text class="node">{{item.node}}</text>
+</view>
+<view class="a13">
+可回收垃圾投放要求:</view>
+
+<view class="one">1.轻投轻放</view>
+
+<view class="one">2.清洁干燥、避免污染，废纸尽量平整</view>
+<view class="one">
+3.立体包装请清空内容物，清洁后压扁投放
+</view>
+<view class="one">
+4.有尖锐边角的，应包裹后投放
+</view>
+
+</view>

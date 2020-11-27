@@ -1,0 +1,17 @@
+<view class="a1">
+<image src="../../images/chuyu.jpg"></image>
+</view>
+<view class="a1">
+
+<view class="a11">厨余垃圾:</view>
+<view class="a12">
+厨余垃圾是指，对人体健康或者自然环境造成直接或潜在危害的废弃物
+
+</view>
+<view class="a13">
+厨余垃圾投放要求:</view>
+
+<view class="one">1.纯流质的食物垃圾，如牛奶等，应直接倒进下水口</view>
+
+<view class="one">2.有包装物的厨余垃圾应将包装物去除后分类投放，包装物请投放到对应的可回收物或其它垃圾容器</view>
+</view>

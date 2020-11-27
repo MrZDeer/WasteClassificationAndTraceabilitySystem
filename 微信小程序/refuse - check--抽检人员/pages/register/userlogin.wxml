@@ -1,0 +1,16 @@
+<!--pages/register/userlogin.wxml-->
+<view class="login-container">
+	<view class="login">
+		<view class="app-info">
+			<image class="app-logo" src="../../images/lj.png" />
+			<text class="app-name">垃圾分类溯源系统</text>
+		</view>
+    	</view>
+		<view class="alert">
+			<view class="alert-title">尊敬的用户，请确认授权以下信息</view>
+			<view class="alert-desc">
+				<view class="alert-text">获得你的公开信息（昵称、头像等）</view>
+			</view>
+		</view>
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo">登录授权</button>
+</view>

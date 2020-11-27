@@ -1,0 +1,27 @@
+/* pages/you/youhai.wxss */
+.a11{
+   font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  text-indent: 5px;
+}
+.a12{
+  font-size: 14px;
+  
+  margin-left: 20px;
+}
+.one{
+  font-size: 14px;
+  color: rgb(221, 74, 74);
+  margin-left: 20px;
+  }
+.a13{
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  text-indent: 5px;
+  border-top: 1px solid #D9D9D9; 
+
+}

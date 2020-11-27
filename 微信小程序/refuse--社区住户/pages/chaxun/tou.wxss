@@ -1,0 +1,41 @@
+/* pages/chaxun/tou.wxss */
+.table {
+  border: 1px solid darkgray;
+  font-size: 12px;
+}
+.trs {
+  display: flex;
+  width: 100%;
+ height:2rem;
+ 
+}
+.tr {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  height: 3rem;
+  align-items: center;
+  border-bottom: 1px solid darkgray;
+  background:  rgb(240, 245, 248);
+}
+.td{
+    width:40%;
+    justify-content: center;
+    text-align:center;
+    height:3.5rem;
+    word-break: break-all;
+    border-left: 1px solid darkgray;
+    
+}
+.bg-header{
+  background: snow;
+}
+.th {
+  width: 40%;
+  justify-content: center;
+  background: rgb(51, 255, 177);
+  color: rgb(32, 28, 28);
+  display: flex;
+  height: 2rem;
+  align-items: center;
+}

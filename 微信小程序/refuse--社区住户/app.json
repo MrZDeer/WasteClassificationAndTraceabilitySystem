@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/register/userlogin",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/register/register",
+    "pages/my/myinfo",
+    "pages/index/image/youhai",
+    "pages/you/youhai",
+    "pages/you/image/hui",
+    "pages/you/hui",
+    "pages/you/chu",
+    "pages/chaxun/tou",
+    "pages/chaxun/wei",
+    "pages/budayang/budayang",
+    "pages/laugh/laugh"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页面",
+        "iconPath": "images/tab_account1.png",
+        "selectedIconPath": "images/tab_account2.png"
+      },
+      {
+        "pagePath": "pages/my/myinfo",
+        "text": "我的",
+        "iconPath": "images/tab_course1.png",
+        "selectedIconPath": "images/tab_course2.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

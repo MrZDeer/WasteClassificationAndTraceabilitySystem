@@ -1,0 +1,20 @@
+<view class="a1">
+<image src="image/2.jpg"></image>
+</view>
+<view class="a1">
+
+<view class="a11">有害垃圾具体分类:</view>
+<view class="a12" wx:for="{{fenlei}}" wx:key="{{f}}">
+  <text class="little">{{item.little}}</text>
+  <text class="node">{{item.node}}</text>
+</view>
+<view class="a13">
+有害垃圾投放要求:</view>
+
+<view class="one">1.投放时请注意轻放</view>
+
+<view class="one">2.易破损的请连带包装或包裹后轻放</view>
+<view class="one">
+3.如易挥发，请密封后投放
+</view>
+</view>
